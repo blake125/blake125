@@ -8,9 +8,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="assets/chef_jump.gif" alt="Brilliant animation of low-poly chef jumping." />
-</div>
+<p align="center">I'm a software developer with a passion for building tools and solving problems.</p>
+<p align="center">Recently, I've been working on a web-app for my CSE Capstone I in Angular and TypeScript.</p>
 
 ###
 
